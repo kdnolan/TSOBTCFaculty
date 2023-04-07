@@ -1,5 +1,6 @@
 # TSOBTCFaculty
 The School of Bitcoin Faculty
+theschoolofbitcoin.com
 
 Join Meetings:
 
@@ -10,3 +11,18 @@ https://zoom.us/meeting/tJArcu6vqj8oHtBES53V4Phxg4LRhVHDslKJ/ics?icsToken=98tyKu
 
 Join Zoom Meeting
 https://zoom.us/j/94657744244?pwd=dHRBRnYvRHdaR1ZsYWw1RmtOdnMwZz09
+
+Minutes:
+https://www.youtube.com/playlist?list=PL6yevUXkWx92-Ru37ebxjxcdr6qgv2wr2
+
+Archive:
+https://www.youtube.com/watch?v=B6Wj0Dp3ACM&list=PLD3n5hQtZwochgpYKFzW_blDx-e6lzwZK
+
+
+Join Faculty:
+https://groups.google.com/g/theschoolofbitcoin
+
+Open Discussion:
+https://stacker.news/items/122395
+
+Framework: https://www.figma.com/file/NmTazraS5yKEIkWHHcrc8u/TSOBTC-oS3-frameWorkSpace?node-id=108%3A1010&t=nTrF3Aiwqcyge5mx-1
